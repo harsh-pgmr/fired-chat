@@ -1,0 +1,7 @@
+[build]
+base = "ui" # Specify the directory containing your frontend code
+publish = "ui/dist" # Specify the build output directory for the frontend
+functions = "backend" # Specify the directory containing Netlify functions (if any)
+command = "npm run build" # The build command for your frontend (if applicable)
+
+
