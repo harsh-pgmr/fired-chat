@@ -17,6 +17,7 @@ Fired Chat provides instant real-time communication between users using Socket.I
 - Socket.IO
 - Node.js
 - Express.js
+- PeerJS
 
 ---
 
